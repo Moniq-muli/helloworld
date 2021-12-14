@@ -1,2 +1,2 @@
 # helloworld
-just print hello world by a variety of programming languages.
+Just to print "hello world" by a variety of programming languages.
